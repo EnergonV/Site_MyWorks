@@ -1,13 +1,10 @@
-<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Default.aspx.cs" Inherits="EnergonSite._Default" %>
+п»ї<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Default.aspx.cs" Inherits="EnergonSite._Default" %>
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 
 <html xmlns="http://www.w3.org/1999/xhtml" >
 <head runat="server">
-<meta http-equiv="Content-Type" content="text/html; charset=windows-1251"/>
-<meta name="ProgId" content="Word.Document"/>
-<meta name="Generator" content="Microsoft Word 11"/>
-<meta name="Originator" content="Microsoft Word 11"/>
+
 <!--[if !mso]>
 <style>
 v\:* {behavior:url(#default#VML);}
@@ -43,8 +40,8 @@ w\:* {behavior:url(#default#VML);}
  <w:WordDocument>
   <w:DisplayBackgroundShape/>
   <w:PunctuationKerning/>
-  <w:DrawingGridHorizontalSpacing>0 пт</w:DrawingGridHorizontalSpacing>
-  <w:DrawingGridVerticalSpacing>0 пт</w:DrawingGridVerticalSpacing>
+  <w:DrawingGridHorizontalSpacing>0 РїС‚</w:DrawingGridHorizontalSpacing>
+  <w:DrawingGridVerticalSpacing>0 РїС‚</w:DrawingGridVerticalSpacing>
   <w:DisplayHorizontalDrawingGridEvery>0</w:DisplayHorizontalDrawingGridEvery>
   <w:DisplayVerticalDrawingGridEvery>0</w:DisplayVerticalDrawingGridEvery>
   <w:UseMarginsForDrawingGridOrigin/>
@@ -52,8 +49,8 @@ w\:* {behavior:url(#default#VML);}
   <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
   <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
   <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
-  <w:DrawingGridHorizontalOrigin>0 пт</w:DrawingGridHorizontalOrigin>
-  <w:DrawingGridVerticalOrigin>0 пт</w:DrawingGridVerticalOrigin>
+  <w:DrawingGridHorizontalOrigin>0 РїС‚</w:DrawingGridHorizontalOrigin>
+  <w:DrawingGridVerticalOrigin>0 РїС‚</w:DrawingGridVerticalOrigin>
   <w:Compatibility>
    <w:SelectEntireFieldWithStartOrEnd/>
    <w:UseWord2002TableStyleRules/>
@@ -113,7 +110,7 @@ p.MsoFooter, li.MsoFooter, div.MsoFooter
 	mso-fareast-font-family:"Times New Roman";
 	mso-fareast-language:AR-SA;}
 p.MsoList, li.MsoList, div.MsoList
-	{mso-style-parent:"Основной текст";
+	{mso-style-parent:"РћСЃРЅРѕРІРЅРѕР№ С‚РµРєСЃС‚";
 	margin-top:0cm;
 	margin-right:0cm;
 	margin-bottom:6.0pt;
@@ -137,7 +134,7 @@ p.MsoBodyText, li.MsoBodyText, div.MsoBodyText
 	mso-fareast-font-family:"Times New Roman";
 	mso-fareast-language:AR-SA;}
 a:link, span.MsoHyperlink
-	{mso-style-parent:"Основной шрифт абзаца1";
+	{mso-style-parent:"РћСЃРЅРѕРІРЅРѕР№ С€СЂРёС„С‚ Р°Р±Р·Р°С†Р°1";
 	color:blue;
 	text-decoration:underline;
 	text-underline:single;}
@@ -146,8 +143,8 @@ a:visited, span.MsoHyperlinkFollowed
 	text-decoration:underline;
 	text-underline:single;}
 p.a, li.a, div.a
-	{mso-style-name:Заголовок;
-	mso-style-next:"Основной текст";
+	{mso-style-name:Р—Р°РіРѕР»РѕРІРѕРє;
+	mso-style-next:"РћСЃРЅРѕРІРЅРѕР№ С‚РµРєСЃС‚";
 	margin-top:12.0pt;
 	margin-right:0cm;
 	margin-bottom:6.0pt;
@@ -161,7 +158,7 @@ p.a, li.a, div.a
 	mso-bidi-font-family:Tahoma;
 	mso-fareast-language:AR-SA;}
 p.1, li.1, div.1
-	{mso-style-name:Название1;
+	{mso-style-name:РќР°Р·РІР°РЅРёРµ1;
 	margin-top:6.0pt;
 	margin-right:0cm;
 	margin-bottom:6.0pt;
@@ -176,7 +173,7 @@ p.1, li.1, div.1
 	mso-fareast-language:AR-SA;
 	font-style:italic;}
 p.10, li.10, div.10
-	{mso-style-name:Указатель1;
+	{mso-style-name:РЈРєР°Р·Р°С‚РµР»СЊ1;
 	margin:0cm;
 	margin-bottom:.0001pt;
 	mso-pagination:widow-orphan no-line-numbers;
@@ -187,7 +184,7 @@ p.10, li.10, div.10
 	mso-bidi-font-family:Tahoma;
 	mso-fareast-language:AR-SA;}
 span.11
-	{mso-style-name:"Основной шрифт абзаца1";
+	{mso-style-name:"РћСЃРЅРѕРІРЅРѕР№ С€СЂРёС„С‚ Р°Р±Р·Р°С†Р°1";
 	mso-style-parent:"";}
  /* Page Definitions */
  @page
@@ -266,7 +263,7 @@ ul
 <style>
  /* Style Definitions */
  table.MsoNormalTable
-	{mso-style-name:"Обычная таблица";
+	{mso-style-name:"РћР±С‹С‡РЅР°СЏ С‚Р°Р±Р»РёС†Р°";
 	mso-tstyle-rowband-size:0;
 	mso-tstyle-colband-size:0;
 	mso-style-noshow:yes;
@@ -281,7 +278,7 @@ ul
 	mso-fareast-language:#0400;
 	mso-bidi-language:#0400;}
 table.MsoTableWeb1
-	{mso-style-name:"Веб-таблица 1";
+	{mso-style-name:"Р’РµР±-С‚Р°Р±Р»РёС†Р° 1";
 	mso-tstyle-rowband-size:0;
 	mso-tstyle-colband-size:0;
 	mso-cellspacing:2.0pt;
@@ -299,13 +296,13 @@ table.MsoTableWeb1
 	mso-fareast-language:#0400;
 	mso-bidi-language:#0400;}
 table.MsoTableWeb1FirstRow
-	{mso-style-name:"Веб-таблица 1";
+	{mso-style-name:"Р’РµР±-С‚Р°Р±Р»РёС†Р° 1";
 	mso-table-condition:first-row;
 	mso-tstyle-diagonal-down:0cm none windowtext;
 	mso-tstyle-diagonal-up:0cm none windowtext;
 	color:windowtext;}
 table.MsoTableWeb3
-	{mso-style-name:"Веб-таблица 3";
+	{mso-style-name:"Р’РµР±-С‚Р°Р±Р»РёС†Р° 3";
 	mso-tstyle-rowband-size:0;
 	mso-tstyle-colband-size:0;
 	mso-cellspacing:2.0pt;
@@ -323,7 +320,7 @@ table.MsoTableWeb3
 	mso-fareast-language:#0400;
 	mso-bidi-language:#0400;}
 table.MsoTableWeb3FirstRow
-	{mso-style-name:"Веб-таблица 3";
+	{mso-style-name:"Р’РµР±-С‚Р°Р±Р»РёС†Р° 3";
 	mso-table-condition:first-row;
 	mso-tstyle-diagonal-down:0cm none windowtext;
 	mso-tstyle-diagonal-up:0cm none windowtext;
@@ -362,7 +359,7 @@ table.MsoTableWeb3FirstRow
         }
         </style>
 </head>
-<body onload='alert("Привет мир!!!");'> 
+<body onload='alert("РџСЂРёРІРµС‚ РјРёСЂ!!!");'> 
     <form id="form1" runat="server" style="border: medium solid #000080">
     <div>
     
@@ -372,7 +369,7 @@ table.MsoTableWeb3FirstRow
                     <img align="left" alt="" class="style5" src="Images/logo.JPG" title="logo" /></td>
                 <td class="style8" style="border: medium solid #000080">
                     <asp:Panel ID="Panel1" runat="server" BackColor="#99CCFF" 
-                        HorizontalAlign="Justify" ToolTip="Нажимать пока нет смысла!">
+                        HorizontalAlign="Justify" ToolTip="РќР°Р¶РёРјР°С‚СЊ РїРѕРєР° РЅРµС‚ СЃРјС‹СЃР»Р°!">
                     </asp:Panel>
                 </td>                               
             </tr>
@@ -406,13 +403,13 @@ src="images/image001.jpg" align="right" hspace=12 v:shapes="_x0000_s1027" xml:la
                     <br />
                     <br />
                     <br />
-<a class="mrc__share" type="button_count" href="http://connect.mail.ru/share">В Мой Мир</a> </td>
+<a class="mrc__share" type="button_count" href="http://connect.mail.ru/share">Р’ РњРѕР№ РњРёСЂ</a> </td>
                 <td class="style6" valign="top" bgcolor="Black" lang=RU link=blue vlink=purple style='tab-interval:35.4pt'>
                 <asp:Panel ID="Panel2" runat="server" BackColor="Black" 
                         HorizontalAlign="Justify">
                     <p class=MsoNormal style='margin-right:28.25pt;text-align:justify;text-indent:
 1.0cm'><b style='mso-bidi-font-weight:normal'><span style='font-size:14.0pt;
-color:yellow'>Здравствуйте, уважаемый Посетитель!</span></b><b
+color:yellow'>Р—РґСЂР°РІСЃС‚РІСѓР№С‚Рµ, СѓРІР°Р¶Р°РµРјС‹Р№ РџРѕСЃРµС‚РёС‚РµР»СЊ!</span></b><b
 style='mso-bidi-font-weight:normal'><span style='font-size:14.0pt;color:yellow'><o:p></o:p></span></b></p>
 
 <p class=MsoNormal style='margin-right:28.25pt;text-align:justify;text-indent:
@@ -422,11 +419,11 @@ color:yellow'><o:p>&nbsp;</o:p></span></b></p>
 <p class=MsoNormal style='margin-right:28.25pt;text-align:justify;text-indent:
 1.0cm'><b style='mso-bidi-font-weight:normal'>
     <span style='font-size:14.0pt;
-color:yellow'>Вы совершенно не напрасно появились на данной странице Интернета, так 
-    как Вас интересуют абсолютно новые и современные взгляды на окружающую 
-    Реальность. Если же они и не столь новы, как хотелось бы, тогда, пожалуй,&nbsp; 
-    представленные здесь взгляды отличаются от других только им одним присущим 
-    высоким уровенем откровенности и объективности.<o:p></o:p></span></b></p>
+color:yellow'>Р’С‹ СЃРѕРІРµСЂС€РµРЅРЅРѕ РЅРµ РЅР°РїСЂР°СЃРЅРѕ РїРѕСЏРІРёР»РёСЃСЊ РЅР° РґР°РЅРЅРѕР№ СЃС‚СЂР°РЅРёС†Рµ РРЅС‚РµСЂРЅРµС‚Р°, С‚Р°Рє 
+    РєР°Рє Р’Р°СЃ РёРЅС‚РµСЂРµСЃСѓСЋС‚ Р°Р±СЃРѕР»СЋС‚РЅРѕ РЅРѕРІС‹Рµ Рё СЃРѕРІСЂРµРјРµРЅРЅС‹Рµ РІР·РіР»СЏРґС‹ РЅР° РѕРєСЂСѓР¶Р°СЋС‰СѓСЋ 
+    Р РµР°Р»СЊРЅРѕСЃС‚СЊ. Р•СЃР»Рё Р¶Рµ РѕРЅРё Рё РЅРµ СЃС‚РѕР»СЊ РЅРѕРІС‹, РєР°Рє С…РѕС‚РµР»РѕСЃСЊ Р±С‹, С‚РѕРіРґР°, РїРѕР¶Р°Р»СѓР№,&nbsp; 
+    РїСЂРµРґСЃС‚Р°РІР»РµРЅРЅС‹Рµ Р·РґРµСЃСЊ РІР·РіР»СЏРґС‹ РѕС‚Р»РёС‡Р°СЋС‚СЃСЏ РѕС‚ РґСЂСѓРіРёС… С‚РѕР»СЊРєРѕ РёРј РѕРґРЅРёРј РїСЂРёСЃСѓС‰РёРј 
+    РІС‹СЃРѕРєРёРј СѓСЂРѕРІРµРЅРµРј РѕС‚РєСЂРѕРІРµРЅРЅРѕСЃС‚Рё Рё РѕР±СЉРµРєС‚РёРІРЅРѕСЃС‚Рё.<o:p></o:p></span></b></p>
 
 <p class=MsoNormal style='margin-right:28.25pt;text-align:justify;text-indent:
 1.0cm'><b style='mso-bidi-font-weight:normal'><span style='font-size:14.0pt;
@@ -434,8 +431,8 @@ color:yellow'><o:p>&nbsp;</o:p></span></b></p>
 
 <p class=MsoNormal style='margin-right:28.25pt;text-align:justify;text-indent:
 1.0cm'><b style='mso-bidi-font-weight:normal'><span style='font-size:14.0pt;
-color:yellow'>Прилагаемый материал в целом является собранием моих сочинений на 
-    философские темы и, вообще, почти всех, а не только философских.<o:p></o:p></span></b></p>
+color:yellow'>РџСЂРёР»Р°РіР°РµРјС‹Р№ РјР°С‚РµСЂРёР°Р» РІ С†РµР»РѕРј СЏРІР»СЏРµС‚СЃСЏ СЃРѕР±СЂР°РЅРёРµРј РјРѕРёС… СЃРѕС‡РёРЅРµРЅРёР№ РЅР° 
+    С„РёР»РѕСЃРѕС„СЃРєРёРµ С‚РµРјС‹ Рё, РІРѕРѕР±С‰Рµ, РїРѕС‡С‚Рё РІСЃРµС…, Р° РЅРµ С‚РѕР»СЊРєРѕ С„РёР»РѕСЃРѕС„СЃРєРёС….<o:p></o:p></span></b></p>
 
 <p class=MsoNormal style='margin-right:28.25pt;text-align:justify;text-indent:
 1.0cm'><b style='mso-bidi-font-weight:normal'><span style='font-size:14.0pt;
@@ -443,9 +440,9 @@ color:yellow'><o:p>&nbsp;</o:p></span></b></p>
 
 <p class=MsoNormal style='margin-right:28.25pt;text-align:justify;text-indent:
 1.0cm'><b style='mso-bidi-font-weight:normal'><span style='font-size:14.0pt;
-color:yellow'>Считаю, что должен поделиться своим достаточно новым и объективным 
-    мировоззрением со своими мыслящими собратьями и ознакомить их с некоторыми 
-    новейшими взглядами на вещи.<o:p></o:p></span></b></p>
+color:yellow'>РЎС‡РёС‚Р°СЋ, С‡С‚Рѕ РґРѕР»Р¶РµРЅ РїРѕРґРµР»РёС‚СЊСЃСЏ СЃРІРѕРёРј РґРѕСЃС‚Р°С‚РѕС‡РЅРѕ РЅРѕРІС‹Рј Рё РѕР±СЉРµРєС‚РёРІРЅС‹Рј 
+    РјРёСЂРѕРІРѕР·Р·СЂРµРЅРёРµРј СЃРѕ СЃРІРѕРёРјРё РјС‹СЃР»СЏС‰РёРјРё СЃРѕР±СЂР°С‚СЊСЏРјРё Рё РѕР·РЅР°РєРѕРјРёС‚СЊ РёС… СЃ РЅРµРєРѕС‚РѕСЂС‹РјРё 
+    РЅРѕРІРµР№С€РёРјРё РІР·РіР»СЏРґР°РјРё РЅР° РІРµС‰Рё.<o:p></o:p></span></b></p>
 
 <p class=MsoNormal style='margin-right:28.25pt;text-align:justify;text-indent:
 1.0cm'><b style='mso-bidi-font-weight:normal'><span style='font-size:14.0pt;
@@ -453,9 +450,9 @@ color:yellow'><o:p>&nbsp;</o:p></span></b></p>
 
 <p class=MsoNormal style='margin-right:28.25pt;text-align:justify;text-indent:
 1.0cm'><b style='mso-bidi-font-weight:normal'><span style='font-size:14.0pt;
-color:yellow'>Среди прочих работ имеется перевод одной интересной книги, которая не 
-    издавалась в Америке с 30-х годов прошлого столетия, но могла бы заметно 
-    повлиять на менталитет современного населения нашей планеты.<o:p>&nbsp;</o:p></span></b></p>
+color:yellow'>РЎСЂРµРґРё РїСЂРѕС‡РёС… СЂР°Р±РѕС‚ РёРјРµРµС‚СЃСЏ РїРµСЂРµРІРѕРґ РѕРґРЅРѕР№ РёРЅС‚РµСЂРµСЃРЅРѕР№ РєРЅРёРіРё, РєРѕС‚РѕСЂР°СЏ РЅРµ 
+    РёР·РґР°РІР°Р»Р°СЃСЊ РІ РђРјРµСЂРёРєРµ СЃ 30-С… РіРѕРґРѕРІ РїСЂРѕС€Р»РѕРіРѕ СЃС‚РѕР»РµС‚РёСЏ, РЅРѕ РјРѕРіР»Р° Р±С‹ Р·Р°РјРµС‚РЅРѕ 
+    РїРѕРІР»РёСЏС‚СЊ РЅР° РјРµРЅС‚Р°Р»РёС‚РµС‚ СЃРѕРІСЂРµРјРµРЅРЅРѕРіРѕ РЅР°СЃРµР»РµРЅРёСЏ РЅР°С€РµР№ РїР»Р°РЅРµС‚С‹.<o:p>&nbsp;</o:p></span></b></p>
 
 <p class=MsoNormal style='margin-right:28.25pt;text-align:justify;text-indent:
 1.0cm'><b style='mso-bidi-font-weight:normal'><span style='font-size:14.0pt;
@@ -464,10 +461,10 @@ color:yellow'><o:p>&nbsp;</o:p></span></b></p>
 <p class=MsoNormal style='margin-right:28.25pt;text-align:justify;text-indent:
 1.0cm'><b style='mso-bidi-font-weight:normal'>
     <span style='font-size:14.0pt;
-color:yellow'>На данном сайте постепенно будут собраны все мои&nbsp; поэтические и 
-    философские сочинения,<span style='mso-spacerun:yes'>&nbsp; </span>а также<span
-style='mso-spacerun:yes'>&nbsp; </span>некоторые собственноручно выполненные переводы с 
-    иностранных языков. Среди них уже имеются следующие:</span></b></p>
+color:yellow'>РќР° РґР°РЅРЅРѕРј СЃР°Р№С‚Рµ РїРѕСЃС‚РµРїРµРЅРЅРѕ Р±СѓРґСѓС‚ СЃРѕР±СЂР°РЅС‹ РІСЃРµ РјРѕРё&nbsp; РїРѕСЌС‚РёС‡РµСЃРєРёРµ Рё 
+    С„РёР»РѕСЃРѕС„СЃРєРёРµ СЃРѕС‡РёРЅРµРЅРёСЏ,<span style='mso-spacerun:yes'>&nbsp; </span>Р° С‚Р°РєР¶Рµ<span
+style='mso-spacerun:yes'>&nbsp; </span>РЅРµРєРѕС‚РѕСЂС‹Рµ СЃРѕР±СЃС‚РІРµРЅРЅРѕСЂСѓС‡РЅРѕ РІС‹РїРѕР»РЅРµРЅРЅС‹Рµ РїРµСЂРµРІРѕРґС‹ СЃ 
+    РёРЅРѕСЃС‚СЂР°РЅРЅС‹С… СЏР·С‹РєРѕРІ. РЎСЂРµРґРё РЅРёС… СѓР¶Рµ РёРјРµСЋС‚СЃСЏ СЃР»РµРґСѓСЋС‰РёРµ:</span></b></p>
 
 <p class=MsoNormal style='margin-right:28.25pt;text-align:justify;text-indent:
 1.0cm'><b style='mso-bidi-font-weight:normal'><span style='font-size:14.0pt;
@@ -483,12 +480,12 @@ color:#003300'><o:p>&nbsp;</o:p></span></b></p>
   0cm;margin-left:34.35pt;margin-bottom:.0001pt;text-align:justify;text-indent:
   -18.0pt;mso-list:l0 level1 lfo2;tab-stops:list 34.35pt'><![if !supportLists]><span
   style='font-size:14.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;
-  mso-bidi-font-family:Symbol;color:yellow'><span style='mso-list:Ignore'>·<span
+  mso-bidi-font-family:Symbol;color:yellow'><span style='mso-list:Ignore'>В·<span
   style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </span></span></span><![endif]><b style='mso-bidi-font-weight:normal'><span
-  style='font-size:14.0pt;color:yellow'>Поэтический сборник</span></b><b
+  style='font-size:14.0pt;color:yellow'>РџРѕСЌС‚РёС‡РµСЃРєРёР№ СЃР±РѕСЂРЅРёРє</span></b><b
   style='mso-bidi-font-weight:normal'><span style='font-size:14.0pt;color:lime'><a
-  href="Poems.aspx"><span style='color:lime'> «Полсотки для Счастья»</span></a></span></b><b
+  href="Poems.aspx"><span style='color:lime'> В«РџРѕР»СЃРѕС‚РєРё РґР»СЏ РЎС‡Р°СЃС‚СЊСЏВ»</span></a></span></b><b
   style='mso-bidi-font-weight:normal'><span style='font-size:14.0pt;color:yellow'><o:p></o:p></span></b></p>
   </td>
  </tr>
@@ -499,12 +496,12 @@ color:#003300'><o:p>&nbsp;</o:p></span></b></p>
   0cm;margin-left:34.35pt;margin-bottom:.0001pt;text-align:justify;text-indent:
   -18.0pt;mso-list:l0 level1 lfo2;tab-stops:list 34.35pt'><![if !supportLists]><span
   style='font-size:14.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;
-  mso-bidi-font-family:Symbol;color:yellow'><span style='mso-list:Ignore'>·<span
+  mso-bidi-font-family:Symbol;color:yellow'><span style='mso-list:Ignore'>В·<span
   style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </span></span></span><![endif]><b style='mso-bidi-font-weight:normal'><span
-  style='font-size:14.0pt;color:yellow'>Поэма </span></b><b style='mso-bidi-font-weight:
+  style='font-size:14.0pt;color:yellow'>РџРѕСЌРјР° </span></b><b style='mso-bidi-font-weight:
   normal'><span style='font-size:14.0pt;color:lime'><a
-  href="megalo.aspx"><span style='color:lime'>«Мегаломания»</span></a></span></b><b
+  href="megalo.aspx"><span style='color:lime'>В«РњРµРіР°Р»РѕРјР°РЅРёСЏВ»</span></a></span></b><b
   style='mso-bidi-font-weight:normal'><span style='font-size:14.0pt;color:yellow'><o:p></o:p></span></b></p>
   </td>
  </tr>
@@ -515,12 +512,12 @@ color:#003300'><o:p>&nbsp;</o:p></span></b></p>
   0cm;margin-left:34.35pt;margin-bottom:.0001pt;text-align:justify;text-indent:
   -18.0pt;mso-list:l0 level1 lfo2;tab-stops:list 34.35pt'><![if !supportLists]><span
   style='font-size:14.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;
-  mso-bidi-font-family:Symbol;color:yellow'><span style='mso-list:Ignore'>·<span
+  mso-bidi-font-family:Symbol;color:yellow'><span style='mso-list:Ignore'>В·<span
   style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </span></span></span><![endif]><b style='mso-bidi-font-weight:normal'><span
-  style='font-size:14.0pt;color:yellow'>Поэма </span></b><b style='mso-bidi-font-weight:
+  style='font-size:14.0pt;color:yellow'>РџРѕСЌРјР° </span></b><b style='mso-bidi-font-weight:
   normal'><span style='font-size:14.0pt;color:lime'><a href="wave_n_cliff.aspx"><span
-  style='color:lime'>«Мир Волны и Утёса»</span></a></span></b><b
+  style='color:lime'>В«РњРёСЂ Р’РѕР»РЅС‹ Рё РЈС‚С‘СЃР°В»</span></a></span></b><b
   style='mso-bidi-font-weight:normal'><span style='font-size:14.0pt;color:yellow'><o:p></o:p></span></b></p>
   </td>
  </tr>
@@ -531,12 +528,12 @@ color:#003300'><o:p>&nbsp;</o:p></span></b></p>
   0cm;margin-left:34.35pt;margin-bottom:.0001pt;text-align:justify;text-indent:
   -18.0pt;mso-list:l0 level1 lfo2;tab-stops:list 34.35pt'><![if !supportLists]><span
   style='font-size:14.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;
-  mso-bidi-font-family:Symbol;color:yellow'><span style='mso-list:Ignore'>·<span
+  mso-bidi-font-family:Symbol;color:yellow'><span style='mso-list:Ignore'>В·<span
   style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </span></span></span><![endif]><b style='mso-bidi-font-weight:normal'><span
-  style='font-size:14.0pt;color:yellow'>Перевод книги </span></b><b
+  style='font-size:14.0pt;color:yellow'>РџРµСЂРµРІРѕРґ РєРЅРёРіРё </span></b><b
   style='mso-bidi-font-weight:normal'><span style='font-size:14.0pt;color:lime'><a
-  href="ppo.aspx"><span style='color:lime'>«Под Покровом Обмана»</span></a></span></b><b
+  href="ppo.aspx"><span style='color:lime'>В«РџРѕРґ РџРѕРєСЂРѕРІРѕРј РћР±РјР°РЅР°В»</span></a></span></b><b
   style='mso-bidi-font-weight:normal'><span style='font-size:14.0pt;color:yellow'><o:p></o:p></span></b></p>
   </td>
  </tr>
@@ -547,13 +544,13 @@ color:#003300'><o:p>&nbsp;</o:p></span></b></p>
   0cm;margin-left:34.35pt;margin-bottom:.0001pt;text-align:justify;text-indent:
   -18.0pt;mso-list:l0 level1 lfo2;tab-stops:list 34.35pt'><![if !supportLists]><span
   style='font-size:14.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;
-  mso-bidi-font-family:Symbol;color:yellow'><span style='mso-list:Ignore'>·<span
+  mso-bidi-font-family:Symbol;color:yellow'><span style='mso-list:Ignore'>В·<span
   style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </span></span></span><![endif]><b style='mso-bidi-font-weight:normal'><span
-  style='font-size:14.0pt;color:yellow'>Философская концепция </span></b><b
+  style='font-size:14.0pt;color:yellow'>Р¤РёР»РѕСЃРѕС„СЃРєР°СЏ РєРѕРЅС†РµРїС†РёСЏ </span></b><b
   style='mso-bidi-font-weight:normal'><span style='font-size:14.0pt;color:lime'><a
-  href="tdh.aspx"><span style='color:lime'>«Теория Динамической 
-      Гармонизации»</span></a></span></b><b style='mso-bidi-font-weight:normal'><span
+  href="tdh.aspx"><span style='color:lime'>В«РўРµРѕСЂРёСЏ Р”РёРЅР°РјРёС‡РµСЃРєРѕР№ 
+      Р“Р°СЂРјРѕРЅРёР·Р°С†РёРёВ»</span></a></span></b><b style='mso-bidi-font-weight:normal'><span
   style='font-size:14.0pt;color:yellow'><o:p></o:p></span></b></p>
   </td>
  </tr>
@@ -568,9 +565,9 @@ color:yellow'><o:p>&nbsp;</o:p></span></b></p>
 <p class=MsoNormal style='margin-right:28.25pt;text-align:justify;text-indent:
 1.0cm'><b style='mso-bidi-font-weight:normal'>
     <span style='font-size:14.0pt;
-color:yellow'>&nbsp;Увы, желание попусту отнимать у вас время мною не движет, так как 
-    самому пришлось потратить массу времени, прежде чем предлагаемый материал стал 
-    вам доступен.<o:p></o:p></span></b></p>
+color:yellow'>&nbsp;РЈРІС‹, Р¶РµР»Р°РЅРёРµ РїРѕРїСѓСЃС‚Сѓ РѕС‚РЅРёРјР°С‚СЊ Сѓ РІР°СЃ РІСЂРµРјСЏ РјРЅРѕСЋ РЅРµ РґРІРёР¶РµС‚, С‚Р°Рє РєР°Рє 
+    СЃР°РјРѕРјСѓ РїСЂРёС€Р»РѕСЃСЊ РїРѕС‚СЂР°С‚РёС‚СЊ РјР°СЃСЃСѓ РІСЂРµРјРµРЅРё, РїСЂРµР¶РґРµ С‡РµРј РїСЂРµРґР»Р°РіР°РµРјС‹Р№ РјР°С‚РµСЂРёР°Р» СЃС‚Р°Р» 
+    РІР°Рј РґРѕСЃС‚СѓРїРµРЅ.<o:p></o:p></span></b></p>
 
 <p class=MsoNormal style='margin-right:28.25pt;text-align:justify;text-indent:
 1.0cm'><b style='mso-bidi-font-weight:normal'><span style='font-size:14.0pt;
@@ -578,8 +575,8 @@ color:yellow'><o:p>&nbsp;</o:p></span></b></p>
 
 <p class=MsoNormal style='margin-right:28.25pt;text-align:justify;text-indent:
 1.0cm'><b style='mso-bidi-font-weight:normal'><span style='font-size:14.0pt;
-color:yellow'>И если Вы серьезно решили ознакомиться с прилагаемым, то знайте, что я 
-    вам за это заранее пре-е-еее-много признателен.<o:p></o:p></span></b></p>
+color:yellow'>Р РµСЃР»Рё Р’С‹ СЃРµСЂСЊРµР·РЅРѕ СЂРµС€РёР»Рё РѕР·РЅР°РєРѕРјРёС‚СЊСЃСЏ СЃ РїСЂРёР»Р°РіР°РµРјС‹Рј, С‚Рѕ Р·РЅР°Р№С‚Рµ, С‡С‚Рѕ СЏ 
+    РІР°Рј Р·Р° СЌС‚Рѕ Р·Р°СЂР°РЅРµРµ РїСЂРµ-Рµ-РµРµРµ-РјРЅРѕРіРѕ РїСЂРёР·РЅР°С‚РµР»РµРЅ.<o:p></o:p></span></b></p>
 
 <p class=MsoNormal style='margin-right:28.25pt;text-align:justify;text-indent:
 1.0cm'><b style='mso-bidi-font-weight:normal'><span style='font-size:14.0pt;
@@ -587,11 +584,11 @@ color:yellow'><o:p>&nbsp;</o:p></span></b></p>
 
 <p class=MsoNormal style='margin-right:28.25pt;text-align:justify;text-indent:
 1.0cm'><b style='mso-bidi-font-weight:normal'><span style='font-size:14.0pt;
-color:yellow'>Самым дорогим для меня замыслом и самым существенным из 
-    представленного<span style='mso-spacerun:yes'>&nbsp; </span>я считаю Философскую 
-    концепцию Динамической Гармонизации, а также достаточно беспристрастно 
-    проведенный анализ всех ранее созданных в истории философских и 
-    мировоззренческих идей.<o:p></o:p></span></b></p>
+color:yellow'>РЎР°РјС‹Рј РґРѕСЂРѕРіРёРј РґР»СЏ РјРµРЅСЏ Р·Р°РјС‹СЃР»РѕРј Рё СЃР°РјС‹Рј СЃСѓС‰РµСЃС‚РІРµРЅРЅС‹Рј РёР· 
+    РїСЂРµРґСЃС‚Р°РІР»РµРЅРЅРѕРіРѕ<span style='mso-spacerun:yes'>&nbsp; </span>СЏ СЃС‡РёС‚Р°СЋ Р¤РёР»РѕСЃРѕС„СЃРєСѓСЋ 
+    РєРѕРЅС†РµРїС†РёСЋ Р”РёРЅР°РјРёС‡РµСЃРєРѕР№ Р“Р°СЂРјРѕРЅРёР·Р°С†РёРё, Р° С‚Р°РєР¶Рµ РґРѕСЃС‚Р°С‚РѕС‡РЅРѕ Р±РµСЃРїСЂРёСЃС‚СЂР°СЃС‚РЅРѕ 
+    РїСЂРѕРІРµРґРµРЅРЅС‹Р№ Р°РЅР°Р»РёР· РІСЃРµС… СЂР°РЅРµРµ СЃРѕР·РґР°РЅРЅС‹С… РІ РёСЃС‚РѕСЂРёРё С„РёР»РѕСЃРѕС„СЃРєРёС… Рё 
+    РјРёСЂРѕРІРѕР·Р·СЂРµРЅС‡РµСЃРєРёС… РёРґРµР№.<o:p></o:p></span></b></p>
 
 <p class=MsoNormal style='margin-right:28.25pt;text-align:justify;text-indent:
 1.0cm'><b style='mso-bidi-font-weight:normal'><span style='font-size:14.0pt;
@@ -599,9 +596,9 @@ color:yellow'><o:p>&nbsp;</o:p></span></b></p>
 
 <p class=MsoNormal style='margin-right:28.25pt;text-align:justify;text-indent:
 1.0cm'><b style='mso-bidi-font-weight:normal'><span style='font-size:14.0pt;
-color:yellow'>Однако данная теория могла бы превратиться в нашу общую Социальную 
-    практику, если бы она была подкреплена неким фактически существующим 
-    общественным инструментом…<o:p></o:p></span></b></p>
+color:yellow'>РћРґРЅР°РєРѕ РґР°РЅРЅР°СЏ С‚РµРѕСЂРёСЏ РјРѕРіР»Р° Р±С‹ РїСЂРµРІСЂР°С‚РёС‚СЊСЃСЏ РІ РЅР°С€Сѓ РѕР±С‰СѓСЋ РЎРѕС†РёР°Р»СЊРЅСѓСЋ 
+    РїСЂР°РєС‚РёРєСѓ, РµСЃР»Рё Р±С‹ РѕРЅР° Р±С‹Р»Р° РїРѕРґРєСЂРµРїР»РµРЅР° РЅРµРєРёРј С„Р°РєС‚РёС‡РµСЃРєРё СЃСѓС‰РµСЃС‚РІСѓСЋС‰РёРј 
+    РѕР±С‰РµСЃС‚РІРµРЅРЅС‹Рј РёРЅСЃС‚СЂСѓРјРµРЅС‚РѕРјвЂ¦<o:p></o:p></span></b></p>
 
 <p class=MsoNormal style='margin-right:28.25pt;text-align:justify;text-indent:
 1.0cm'><b style='mso-bidi-font-weight:normal'><span style='font-size:14.0pt;
@@ -609,10 +606,10 @@ color:yellow'><o:p>&nbsp;</o:p></span></b></p>
 
 <p class=MsoNormal style='margin-right:28.25pt;text-align:justify;text-indent:
 1.0cm'><b style='mso-bidi-font-weight:normal'><span style='font-size:14.0pt;
-color:yellow'>Преддверием к Теории Динамической Гармонизации является перевод 
-    материалов о «Технократии» и ее основоположниках, к чему прилагается<span
-style='mso-spacerun:yes'>&nbsp; </span>несколько моих личных аналитических статей и даже 
-    стихов.<o:p></o:p></span></b></p>
+color:yellow'>РџСЂРµРґРґРІРµСЂРёРµРј Рє РўРµРѕСЂРёРё Р”РёРЅР°РјРёС‡РµСЃРєРѕР№ Р“Р°СЂРјРѕРЅРёР·Р°С†РёРё СЏРІР»СЏРµС‚СЃСЏ РїРµСЂРµРІРѕРґ 
+    РјР°С‚РµСЂРёР°Р»РѕРІ Рѕ В«РўРµС…РЅРѕРєСЂР°С‚РёРёВ» Рё РµРµ РѕСЃРЅРѕРІРѕРїРѕР»РѕР¶РЅРёРєР°С…, Рє С‡РµРјСѓ РїСЂРёР»Р°РіР°РµС‚СЃСЏ<span
+style='mso-spacerun:yes'>&nbsp; </span>РЅРµСЃРєРѕР»СЊРєРѕ РјРѕРёС… Р»РёС‡РЅС‹С… Р°РЅР°Р»РёС‚РёС‡РµСЃРєРёС… СЃС‚Р°С‚РµР№ Рё РґР°Р¶Рµ 
+    СЃС‚РёС…РѕРІ.<o:p></o:p></span></b></p>
 
 <p class=MsoNormal style='margin-right:28.25pt;text-align:justify;text-indent:
 1.0cm'><b style='mso-bidi-font-weight:normal'><span style='font-size:14.0pt;
@@ -620,11 +617,11 @@ color:yellow'><o:p>&nbsp;</o:p></span></b></p>
 
 <p class=MsoNormal style='margin-right:28.25pt;text-align:justify;text-indent:
 1.0cm'><b style='mso-bidi-font-weight:normal'><span style='font-size:14.0pt;
-color:yellow'>Несмотря на приложенные старания, всё не столь уж и ясно по сей день,<span style='mso-spacerun:yes'>&nbsp; </span>
-    и многое требует более детального пояснения, так как представляет собой сложные 
-    комплексные вопросы. Это значит, что каждый из них требует отдельной книги, чего 
-    я не в состоянии себе позволить из-за<span style='mso-spacerun:yes'>&nbsp; </span>
-    недостатка … многого, не только Времени.<o:p></o:p></span></b></p>
+color:yellow'>РќРµСЃРјРѕС‚СЂСЏ РЅР° РїСЂРёР»РѕР¶РµРЅРЅС‹Рµ СЃС‚Р°СЂР°РЅРёСЏ, РІСЃС‘ РЅРµ СЃС‚РѕР»СЊ СѓР¶ Рё СЏСЃРЅРѕ РїРѕ СЃРµР№ РґРµРЅСЊ,<span style='mso-spacerun:yes'>&nbsp; </span>
+    Рё РјРЅРѕРіРѕРµ С‚СЂРµР±СѓРµС‚ Р±РѕР»РµРµ РґРµС‚Р°Р»СЊРЅРѕРіРѕ РїРѕСЏСЃРЅРµРЅРёСЏ, С‚Р°Рє РєР°Рє РїСЂРµРґСЃС‚Р°РІР»СЏРµС‚ СЃРѕР±РѕР№ СЃР»РѕР¶РЅС‹Рµ 
+    РєРѕРјРїР»РµРєСЃРЅС‹Рµ РІРѕРїСЂРѕСЃС‹. Р­С‚Рѕ Р·РЅР°С‡РёС‚, С‡С‚Рѕ РєР°Р¶РґС‹Р№ РёР· РЅРёС… С‚СЂРµР±СѓРµС‚ РѕС‚РґРµР»СЊРЅРѕР№ РєРЅРёРіРё, С‡РµРіРѕ 
+    СЏ РЅРµ РІ СЃРѕСЃС‚РѕСЏРЅРёРё СЃРµР±Рµ РїРѕР·РІРѕР»РёС‚СЊ РёР·-Р·Р°<span style='mso-spacerun:yes'>&nbsp; </span>
+    РЅРµРґРѕСЃС‚Р°С‚РєР° вЂ¦ РјРЅРѕРіРѕРіРѕ, РЅРµ С‚РѕР»СЊРєРѕ Р’СЂРµРјРµРЅРё.<o:p></o:p></span></b></p>
 
 <p class=MsoNormal style='margin-right:28.25pt;text-align:justify;text-indent:
 1.0cm'><b style='mso-bidi-font-weight:normal'><span style='font-size:14.0pt;
@@ -632,10 +629,10 @@ color:yellow'><o:p>&nbsp;</o:p></span></b></p>
 
 <p class=MsoNormal style='margin-right:28.25pt;text-align:justify;text-indent:
 1.0cm'><b style='mso-bidi-font-weight:normal'><span style='font-size:14.0pt;
-color:yellow'>Сколь многое требуется для<span style='mso-spacerun:yes'>&nbsp;
-</span>материализации Идеального – расскажет сама История. По крайней мере, здесь Вы 
-    найдете некоторые довольно интересные мысли и наметки для построения новой 
-    Социальной, а не только личной Концепции Мироздания.<o:p></o:p></span></b></p>
+color:yellow'>РЎРєРѕР»СЊ РјРЅРѕРіРѕРµ С‚СЂРµР±СѓРµС‚СЃСЏ РґР»СЏ<span style='mso-spacerun:yes'>&nbsp;
+</span>РјР°С‚РµСЂРёР°Р»РёР·Р°С†РёРё РРґРµР°Р»СЊРЅРѕРіРѕ вЂ“ СЂР°СЃСЃРєР°Р¶РµС‚ СЃР°РјР° РСЃС‚РѕСЂРёСЏ. РџРѕ РєСЂР°Р№РЅРµР№ РјРµСЂРµ, Р·РґРµСЃСЊ Р’С‹ 
+    РЅР°Р№РґРµС‚Рµ РЅРµРєРѕС‚РѕСЂС‹Рµ РґРѕРІРѕР»СЊРЅРѕ РёРЅС‚РµСЂРµСЃРЅС‹Рµ РјС‹СЃР»Рё Рё РЅР°РјРµС‚РєРё РґР»СЏ РїРѕСЃС‚СЂРѕРµРЅРёСЏ РЅРѕРІРѕР№ 
+    РЎРѕС†РёР°Р»СЊРЅРѕР№, Р° РЅРµ С‚РѕР»СЊРєРѕ Р»РёС‡РЅРѕР№ РљРѕРЅС†РµРїС†РёРё РњРёСЂРѕР·РґР°РЅРёСЏ.<o:p></o:p></span></b></p>
 
 <p class=MsoNormal style='margin-right:28.25pt;text-align:justify;text-indent:
 1.0cm'><b style='mso-bidi-font-weight:normal'><span style='font-size:14.0pt;
@@ -643,7 +640,7 @@ color:yellow'><o:p>&nbsp;</o:p></span></b></p>
 
 <p class=MsoNormal style='margin-right:28.25pt;text-align:justify;text-indent:
 1.0cm'><b style='mso-bidi-font-weight:normal'><span style='font-size:14.0pt;
-color:yellow'>С глубоким уважением,<o:p></o:p></span></b></p>
+color:yellow'>РЎ РіР»СѓР±РѕРєРёРј СѓРІР°Р¶РµРЅРёРµРј,<o:p></o:p></span></b></p>
 
 <p class=MsoNormal style='margin-right:28.25pt;text-align:justify;text-indent:
 1.0cm'><b style='mso-bidi-font-weight:normal'><span style='font-size:14.0pt;
