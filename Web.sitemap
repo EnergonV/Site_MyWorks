@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+       <siteMapNode title="Домашняя Страница" description="Домашняя Страница" url="~/Default.aspx" >
+        <siteMapNode title="Вит Клич.Теория Динамической Гармонизации" description="Универсальная Философская Концепция"
+             url="~/tdh.aspx">
+            <siteMapNode title="Основы материалистической философии"
+           description="Конспект очерка"
+           url="~/philmatbase.aspx" >
+         </siteMapNode>   
+             </siteMapNode>
+         <siteMapNode title="Вит Клич. Мир Волны и Утёса"
+            description="Лирическое Произведение (Поэма)"
+            url="~/wave_n_cliff.aspx" >
+       </siteMapNode>
+       <siteMapNode title="Вит Клич. Поэтический Сборник"
+           description="Сборник стихотворений"
+           url="~/Poems.aspx" >
+           <siteMapNode title="Вит Клич. Мегаломания"
+           description="Драматическая Поэма"
+           url="~/megalo.aspx" >
+           </siteMapNode>
+       </siteMapNode>
+       <siteMapNode title="Вит Клич. Переводы" description="Переводы с иностранных языков"
+            url="~/translated.aspx">
+            <siteMapNode title="Технократия: Под Покровом Обмана" description="Skip.R.Sievert.Beyond the Cloak of Deception"
+                url="~/ppo.aspx" />            
+        </siteMapNode>
+            </siteMapNode>    
+</siteMap>
